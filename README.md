@@ -1,1 +1,1 @@
-# Work-Attandance
+This business task is about finding the possibility if an employee will be absent during work hours excessive amount of time so this will help the company reorganizing the workplace to increase productivity. Preprocessing of dataset consists of categorizing reasons for absence and some other variables and also creating dummy variables and changing their format.  
